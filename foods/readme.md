@@ -2,11 +2,11 @@
 
 ##Asian
 ###Japanese
-- [] Sushi
+- [ ] Sushi
 
 ##European
 ###British
-- [] Pimms
+- [ ] Pimms
 
 ##Miscellaneous
 - [x] Cricket flour
