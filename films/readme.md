@@ -13,4 +13,3 @@
 - [ ] Pontypool
 - [ ] Tucker & Dale vs. Evil
 - [ ] Behind the Mask: The Rise of Leslie Vernon
-- 
