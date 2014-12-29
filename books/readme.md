@@ -376,6 +376,7 @@
 - [ ] The long goodbye - Raymond Chandler
 - [ ] The Magic Mountain - Thomas Mann
 - [ ] The Maltese falcon - Dashiell Hammett
+- [ ] The Man in the High Castle - Philip K. Dick
 - [ ] The Man of Feeling - Henry Mackenzie
 - [ ] The Marble Faun - Volume 1 The Romance of Monte Beni - Nathaniel Hawthorne
 - [ ] The Marble Faun - Volume 2 The Romance of Monte Beni - Nathaniel Hawthorne
