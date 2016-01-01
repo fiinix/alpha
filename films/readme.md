@@ -13,3 +13,11 @@
 - [ ] Pontypool
 - [ ] Tucker & Dale vs. Evil
 - [ ] Behind the Mask: The Rise of Leslie Vernon
+
+##Animated
+
+- [ ] The Triplets of Belleville
+- [ ] Grace of the Fireflies
+- [ ] Heavy Metal 2000
+- [ ] Princess Monoke
+- [ ] Ninja Scroll
